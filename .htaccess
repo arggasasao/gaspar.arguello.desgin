@@ -1,0 +1,15 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+ErrorDocument 404 /
+
+# Redirect fonders of works to single-page
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^work/(.*)$ /work.html [L,QSA]
+
+# Remove .html from URL
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html [NC,L]
+</IfModule>
+
+

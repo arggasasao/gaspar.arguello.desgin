@@ -1,0 +1,250 @@
+{
+  "es": {
+    "home": {
+      "name": "Inicio",
+      "link": "/",
+      "menu": {
+        "about": {
+          "label": "Holla",
+          "hover": "Sobre",
+          "link": "about"
+        },
+        "works": {
+          "label": "Soy",
+          "hover": "Trabajos",
+          "link": "works"
+        },
+        "contact": {
+          "label": "Gaspar",
+          "hover": "Contacto",
+          "link": "contact"
+        }
+      },
+      "menu_error": {
+        "1": {
+          "label": "Epa!",
+          "hover": "Inicio",
+          "link": "/"
+        },
+        "2": {
+          "label": "algo va!",
+          "hover": "Inicio",
+          "link": "/"
+        },
+        "3": {
+          "label": "mal",
+          "hover": "Inicio",
+          "link": "/"
+        }
+      }
+    },
+    "about": {
+      "name": "Sobre",
+      "link": "about",
+      "content": {
+        "title": "About me",
+        "hero_image": "shot_20211106-183508.jpg",
+        "text_header": "Yo diseño y construyo productos digitales",
+        "text_big": "I'm a multi-talented human with over 10+ years of experiences in wide range of design disciplines.",
+        "text": "Nulla facilisi etiam dignissim diam quis enim lobortis. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Non quam lacus suspendisse faucibus interdum posuere lorem. Auctor elit sed vulputate mi sit amet mauris commodo. Rhoncus dolor purus non enim praesent elementum facilisis leo. Tellus integer feugiat scelerisque varius. Laoreet id donec ultrices tincidunt arcu non sodales. Cras ornare arcu dui vivamus arcu. Mi in nulla posuere sollicitudin aliquam ultrices. Platea dictumst quisque sagittis purus sit amet volutpat. Amet facilisis magna etiam tempor orci eu lobortis elementum. Egestas pretium aenean pharetra magna ac placerat.",
+        "cv_link": "Resume-Gaspar-2021-03-es.pdf",
+        "cv_link_text": "Mi resume (pdf 200kb)"
+      }
+    },
+    "works": {
+      "name": "Trabajos",
+      "link": "works",
+      "content": {
+        "title": "Mis trabajos",
+        "text": "Estos son algunos trabajos"
+      }
+    },
+    "work": {
+      "name": "Trabajo",
+      "link": "work",
+      "content": {
+        "title": "Mis trabajos",
+        "text": "Estos son algunos trabajos"
+      }
+    },
+    "contact": {
+      "name": "Contacto",
+      "link": "contacto",
+      "content": {
+        "title": "Contacto",
+        "text": "Actualmente estoy buscando trabajo si quires más información no dudes en contactarme.",
+        "links": [
+          { "label": "email", "url": "gaspar.arguello@gmail.com" },
+          { "label": "linkedin", "url": "linkedin.com/gaspararguello" },
+          { "label": "vimeo", "url": "vimeo.com/gaspararguello" },
+          { "label": "youtube", "url": "youtube.com/gaspararguello" }
+        ]
+      }
+    }
+  },
+
+  "en": {
+    "home": {
+      "name": "Home",
+      "link": "home",
+      "menu": {
+        "about": {
+          "label": "Hello",
+          "hover": "About",
+          "link": "about"
+        },
+        "works": {
+          "label": "I am",
+          "hover": "Work",
+          "link": "works"
+        },
+        "contact": {
+          "label": "Gaspar",
+          "hover": "Contact",
+          "link": "contact"
+        }
+      },
+      "menu_error": {
+        "1": {
+          "label": "Epa!",
+          "hover": "Inicio",
+          "link": "/"
+        },
+        "2": {
+          "label": "algo va!",
+          "hover": "Inicio",
+          "link": "/"
+        },
+        "3": {
+          "label": "mal",
+          "hover": "Inicio",
+          "link": "/"
+        }
+      }
+    },
+    "about": {
+      "name": "Sobre",
+      "link": "about",
+      "content": {
+        "title": "About me",
+        "hero_image": "shot_20211106-183508.jpg",
+        "big_text": "I'm a multi-talented human with over 10+ years of experiences in wide range of design disciplines.",
+        "text": "Nulla facilisi etiam dignissim diam quis enim lobortis. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Non quam lacus suspendisse faucibus interdum posuere lorem. Auctor elit sed vulputate mi sit amet mauris commodo. Rhoncus dolor purus non enim praesent elementum facilisis leo. Tellus integer feugiat scelerisque varius. Laoreet id donec ultrices tincidunt arcu non sodales. Cras ornare arcu dui vivamus arcu. Mi in nulla posuere sollicitudin aliquam ultrices. Platea dictumst quisque sagittis purus sit amet volutpat. Amet facilisis magna etiam tempor orci eu lobortis elementum. Egestas pretium aenean pharetra magna ac placerat.",
+        "cv_link": "Resume-Gaspar-2021-03-es.pdf",
+        "cv_link_text": "Mi resume (pdf 200kb)"
+      }
+    },
+    "works": {
+      "name": "Trabajos",
+      "link": "works",
+      "content": {
+        "title": "Mis trabajos",
+        "text": "Estos son algunos trabajos"
+      }
+    },
+    "work": {
+      "name": "Trabajo",
+      "link": "work",
+      "content": {
+        "title": "Mis trabajos",
+        "text": "Estos son algunos trabajos"
+      }
+    },
+    "contact": {
+      "name": "Contacto",
+      "link": "contacto",
+      "content": {
+        "title": "Contacto",
+        "text": "Actualmente estoy buscando trabajo si quires más información no dudes en contactarme.",
+        "links": [
+          { "label": "email", "url": "gaspar.arguello@gmail.com" },
+          { "label": "linkedin", "url": "linkedin.com/gaspararguello" },
+          { "label": "vimeo", "url": "vimeo.com/gaspararguello" },
+          { "label": "youtube", "url": "youtube.com/gaspararguello" }
+        ]
+      }
+    }
+  },
+  "pt": {
+    "home": {
+      "name": "Home",
+      "link": "home",
+      "menu": {
+        "about": {
+          "label": "Olá!",
+          "hover": "Sobre",
+          "link": "about"
+        },
+        "work": {
+          "label": "Eu sou",
+          "hover": "Jobs",
+          "link": "work"
+        },
+        "contact": {
+          "label": "Gaspar",
+          "hover": "Contato",
+          "link": "contact"
+        }
+      },
+      "menu_error": {
+        "1": {
+          "label": "Epa!",
+          "hover": "Inicio",
+          "link": "/"
+        },
+        "2": {
+          "label": "algo va!",
+          "hover": "Inicio",
+          "link": "/"
+        },
+        "3": {
+          "label": "mal",
+          "hover": "Inicio",
+          "link": "/"
+        }
+      }
+    },
+    "about": {
+      "name": "Sobre",
+      "link": "about",
+      "content": {
+        "title": "About me",
+        "hero_image": "shot_20211106-183508.jpg",
+        "big_text": "I'm a multi-talented human with over 10+ years of experiences in wide range of design disciplines.",
+        "text": "Nulla facilisi etiam dignissim diam quis enim lobortis. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Non quam lacus suspendisse faucibus interdum posuere lorem. Auctor elit sed vulputate mi sit amet mauris commodo. Rhoncus dolor purus non enim praesent elementum facilisis leo. Tellus integer feugiat scelerisque varius. Laoreet id donec ultrices tincidunt arcu non sodales. Cras ornare arcu dui vivamus arcu. Mi in nulla posuere sollicitudin aliquam ultrices. Platea dictumst quisque sagittis purus sit amet volutpat. Amet facilisis magna etiam tempor orci eu lobortis elementum. Egestas pretium aenean pharetra magna ac placerat.",
+        "cv_link": "Resume-Gaspar-2021-03-es.pdf",
+        "cv_lin_text": "Mi resume (pdf 200kb)"
+      }
+    },
+    "works": {
+      "name": "Trabajos",
+      "link": "works",
+      "content": {
+        "title": "Mis trabajos",
+        "text": "Estos son algunos trabajos"
+      }
+    },
+    "work": {
+      "name": "Trabajo",
+      "link": "work",
+      "content": {
+        "title": "Mis trabajos",
+        "text": "Estos son algunos trabajos"
+      }
+    },
+    "contact": {
+      "name": "Contacto",
+      "link": "contacto",
+      "content": {
+        "title": "Contacto",
+        "text": "Actualmente estoy buscando trabajo si quires más información no dudes en contactarme.",
+        "links": [
+          { "label": "email", "url": "gaspar.arguello@gmail.com" },
+          { "label": "linkedin", "url": "linkedin.com/gaspararguello" },
+          { "label": "vimeo", "url": "vimeo.com/gaspararguello" },
+          { "label": "youtube", "url": "youtube.com/gaspararguello" }
+        ]
+      }
+    }
+  }
+}

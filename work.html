@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Work Single Page</title>
+    <link rel="stylesheet" href="/assets/css/styles.css" />
+    <link rel="stylesheet" href="/assets/css/pico.min.css" />
+  </head>
+  <body>
+    <h1>Work Single Page</h1>
+    <div id="app" data-page="work"></div>
+    <div id="work-single">
+      <template id="work-header">
+        <div class="hero-title">
+          <h2>${work.title</h2>
+          <h4>${work.sub_title}</h4>
+          <img src="/assets/img/%{work.cover_image}" alt="${work.sub_title}" />
+        </div>
+      </template>
+      <template id="work-block">
+        <div class="#">
+          <h2 class="title">#</h2>
+          <p>#</p>
+          <img src="#" />
+        </div>
+      </template>
+    </div>
+    <script type="application/json" src="/assets/db/data.json"></script>
+    <script type="module" src="/assets/js/main.js"></script>
+  </body>
+</html>

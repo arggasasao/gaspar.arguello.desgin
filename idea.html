@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="import" href="404.html" />
+  </head>
+  <body>
+    <app-for data-works as work>
+      <h1 data-work-title></h1>
+      <h3 data-work-sub_title></h3>
+    </app-for>
+    <script>
+      var html = document.querySelector('link[rel="import"]');
+      console.log(html);
+      var url = window.location.href;
+      function UrlExists(url) {
+        var http = new XMLHttpRequest();
+        http.open("HEAD", url, false);
+        http.send();
+        if (http.status != 404) return true;
+        else return false;
+      }
+    </script>
+  </body>
+</html>

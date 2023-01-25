@@ -1,0 +1,158 @@
+{
+  "es": {
+    "t-campus": {
+      "title": "T-Campus",
+      "sub_title": "plataforma formaciónz",
+      "cover_image": "Cook-of-souls_portada.png",
+      "blocks": [
+        {
+          "title": "ES-Brand",
+          "text": "T-Campus. I have worked in the past decade. As a self-employed designer I had a chance to meet and work aside with some of the most talented people across USA, Canada, China, Singapore, Australia, United Kingdom and many more.",
+          "layout": "left img-right",
+          "image": "Cook-of-souls_portada.png"
+        },
+        {
+          "title": "ES-Logo",
+          "text": "Th logo request a simle way to show intent.",
+          "layout": "left img-full",
+          "image": "Cook-of-souls_dvd.png"
+        },
+        {
+          "title": "ES-Manual identity",
+          "text": "Th logo request a simle way to show intent.",
+          "layout": "left img-full",
+          "image": "Cook-of-souls_dvd2.png"
+        }
+      ]
+    },
+    "reactiva-design": {
+      "title": "Reactive Design online portafolio",
+      "sub_title": "Portifolio web",
+      "cover_image": "Cook-of-souls_portada.png",
+      "blocks": [
+        {
+          "title": "ES-Brand",
+          "text": "Reactiva is a selection of projects I have worked in the past decade. As a self-employed designer I had a chance to meet and work aside with some of the most talented people across USA, Canada, China, Singapore, Australia, United Kingdom and many more.",
+          "layout": "left img-right",
+          "image": "Cook-of-souls_dvd.png"
+        },
+        {
+          "title": "ES-Logo",
+          "text": "Th logo request a simle way to show intent.",
+          "layout": "left img-right",
+          "image": "Cook-of-souls_dvd2.png"
+        },
+        {
+          "title": "ES-Manual identity",
+          "text": "Th logo request a simle way to show intent.",
+          "layout": "left img-right",
+          "image": "Cook-of-souls_portada.png"
+        }
+      ]
+    }
+  },
+  "en": {
+    "t-campus": {
+      "title": "T-Campus",
+      "sub_title": "plataforma formación",
+      "cover_image": "Cook-of-souls_portada.png",
+      "blocks": [
+        {
+          "title": "ES-Brand",
+          "text": "T-Campus. I have worked in the past decade. As a self-employed designer I had a chance to meet and work aside with some of the most talented people across USA, Canada, China, Singapore, Australia, United Kingdom and many more.",
+          "layout": "left img-right",
+          "image": "Cook-of-souls_portada.png"
+        },
+        {
+          "title": "ES-Logo",
+          "text": "Th logo request a simle way to show intent.",
+          "layout": "left img-full",
+          "image": "Cook-of-souls_dvd.png"
+        },
+        {
+          "title": "ES-Manual identity",
+          "text": "Th logo request a simle way to show intent.",
+          "layout": "left img-right",
+          "image": "Cook-of-souls_dvd2.png"
+        }
+      ]
+    },
+    "reactiva-design": {
+      "title": "Reactive Design online portafolio",
+      "sub_title": "Portifolio web",
+      "cover_image": "Cook-of-souls_portada.png",
+      "blocks": [
+        {
+          "title": "ES-Brand",
+          "text": "Reactiva is a selection of projects I have worked in the past decade. As a self-employed designer I had a chance to meet and work aside with some of the most talented people across USA, Canada, China, Singapore, Australia, United Kingdom and many more.",
+          "layout": "left img-right",
+          "image": "Cook-of-souls_dvd.png"
+        },
+        {
+          "title": "ES-Logo",
+          "text": "Th logo request a simle way to show intent.",
+          "layout": "left img-right",
+          "image": "Cook-of-souls_dvd2.png"
+        },
+        {
+          "title": "ES-Manual identity",
+          "text": "Th logo request a simle way to show intent.",
+          "layout": "left img-right",
+          "image": "Cook-of-souls_portada.png"
+        }
+      ]
+    }
+  },
+  "pt": {
+    "t-campus": {
+      "title": "T-Campus",
+      "sub_title": "plataforma formación",
+      "cover_image": "Cook-of-souls_portada.png",
+      "blocks": [
+        {
+          "title": "ES-Brand",
+          "text": "T-Campus. I have worked in the past decade. As a self-employed designer I had a chance to meet and work aside with some of the most talented people across USA, Canada, China, Singapore, Australia, United Kingdom and many more.",
+          "layout": "left img-right",
+          "image": "Cook-of-souls_portada.png"
+        },
+        {
+          "title": "ES-Logo",
+          "text": "Th logo request a simle way to show intent.",
+          "layout": "left img-full",
+          "image": "Cook-of-souls_dvd.png"
+        },
+        {
+          "title": "ES-Manual identity",
+          "text": "Th logo request a simle way to show intent.",
+          "layout": "left img-right",
+          "image": "Cook-of-souls_dvd2.png"
+        }
+      ]
+    },
+    "reactiva-design": {
+      "title": "Reactive Design online portafolio",
+      "sub_title": "Portifolio web",
+      "cover_image": "Cook-of-souls_portada.png",
+      "blocks": [
+        {
+          "title": "ES-Brand",
+          "text": "Reactiva is a selection of projects I have worked in the past decade. As a self-employed designer I had a chance to meet and work aside with some of the most talented people across USA, Canada, China, Singapore, Australia, United Kingdom and many more.",
+          "layout": "left img-right",
+          "image": "Cook-of-souls_dvd.png"
+        },
+        {
+          "title": "ES-Logo",
+          "text": "Th logo request a simle way to show intent.",
+          "layout": "left img-right",
+          "image": "Cook-of-souls_dvd2.png"
+        },
+        {
+          "title": "ES-Manual identity",
+          "text": "Th logo request a simle way to show intent.",
+          "layout": "left img-right",
+          "image": "Cook-of-souls_portada.png"
+        }
+      ]
+    }
+  }
+}
